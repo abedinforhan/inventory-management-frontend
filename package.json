@@ -1,17 +1,43 @@
 {
-  "name": "react-login-signup-ui-template",
+  "name": "inventory-management",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@headlessui/react": "^1.7.5",
+    "@hookform/error-message": "^2.0.1",
+    "@tanstack/react-table": "^8.5.22",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "bootstrap": "^5.2.1",
+    "axios": "^0.27.2",
+    "daisyui": "^2.31.0",
+    "date-fns": "^2.29.3",
+    "prop-types": "^15.8.1",
     "react": "^18.2.0",
+    "react-datepicker": "^4.8.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.4.0",
+    "react-hook-form": "^7.38.0",
+    "react-hot-toast": "^2.4.0",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^6.4.1",
     "react-scripts": "5.0.1",
+    "react-select": "^5.7.0",
+    "react-toastify": "^9.0.8",
+    "sweetalert": "^2.1.2",
+    "tailwind-scrollbar-hide": "^1.1.7",
+    "uuid": "^8.3.2",
     "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "eslint": "^8.24.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-react": "^7.31.8",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -36,13 +62,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "eslint": "^8.24.0",
-    "eslint-config-airbnb": "^19.0.4",
-    "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-jsx-a11y": "^6.6.1",
-    "eslint-plugin-react": "^7.31.8",
-    "eslint-plugin-react-hooks": "^4.6.0"
   }
 }

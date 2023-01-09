@@ -1,0 +1,351 @@
+[{
+  "_id": {
+    "$oid": "63341c683d8c200adc31b6b6"
+  },
+  "contactNumber": [
+    "01111111111",
+    "02222222222"
+  ],
+  "status": "active",
+  "name": "mezbaul abedin persian",
+  "email": "mezba.pran@test.com",
+  "brand": {
+    "name": "Pran",
+    "id": {
+      "$oid": "633177da56be8326a827b812"
+    }
+  },
+  "emergencyContactNumber": "011111111",
+  "tradeLicenceNumber": 1111111111,
+  "presentAddress": "944 Honduras Street",
+  "permanentAddress": "944 Ghana Street",
+  "location": "chattogram",
+  "imageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "nationalIdImageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664359528294"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664359528294"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63341ca23d8c200adc31b6b9"
+  },
+  "contactNumber": [
+    "01111111111",
+    "02222222222"
+  ],
+  "status": "active",
+  "name": "abdullah al fahim",
+  "email": "fahim.teer@test.com",
+  "brand": {
+    "name": "Teer",
+    "id": {
+      "$oid": "63341b10ff782a369881024b"
+    }
+  },
+  "emergencyContactNumber": "011111111",
+  "tradeLicenceNumber": 1111111111,
+  "presentAddress": "944 Uganda Street",
+  "permanentAddress": "944 Ghana Street",
+  "location": "dhaka",
+  "imageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "nationalIdImageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664359586443"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664359586443"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63341ccb3d8c200adc31b6bb"
+  },
+  "contactNumber": [
+    "01111111111",
+    "02222222222"
+  ],
+  "status": "active",
+  "name": "jhankar mahbub",
+  "email": "jhankar.rupchanda@test.com",
+  "brand": {
+    "name": "Rupchanada",
+    "id": {
+      "$oid": "6329f4a69c503f0b7438b25e"
+    }
+  },
+  "emergencyContactNumber": "011111111",
+  "tradeLicenceNumber": 1111111111,
+  "presentAddress": "944 Honduras Street",
+  "permanentAddress": "944 Ghana Street",
+  "location": "dhaka",
+  "imageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "nationalIdImageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664359627118"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664359627118"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63341cd73d8c200adc31b6bd"
+  },
+  "contactNumber": [
+    "01111111111",
+    "02222222222"
+  ],
+  "status": "active",
+  "name": "rasel ahmed",
+  "email": "rasel.fresh@test.com",
+  "brand": {
+    "name": "Fresh",
+    "id": {
+      "$oid": "6329f32f40244f2a44c85741"
+    }
+  },
+  "emergencyContactNumber": "011111111",
+  "tradeLicenceNumber": 1111111111,
+  "presentAddress": "944 Honduras Street",
+  "permanentAddress": "944 Ghana Street",
+  "location": "chattogram",
+  "imageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "nationalIdImageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664359639777"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664359639777"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6334794f92cc9521ec423705"
+  },
+  "contactNumber": [
+    "01111111111",
+    "02222222222"
+  ],
+  "status": "active",
+  "name": "mir hussain",
+  "email": "mir.aci@test.com",
+  "brand": {
+    "name": "ACI",
+    "id": {
+      "$oid": "6329f49f9c503f0b7438b25c"
+    }
+  },
+  "emergencyContactNumber": "011111111",
+  "tradeLicenceNumber": 1111111111,
+  "presentAddress": "944 Honduras Street",
+  "permanentAddress": "944 Ghana Street",
+  "location": "dhaka",
+  "imageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "nationalIdImageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664383311142"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664383311142"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6334799092cc9521ec423707"
+  },
+  "contactNumber": [
+    "01111111111",
+    "02222222222"
+  ],
+  "status": "active",
+  "name": "shakil ahmed atik",
+  "email": "atik.fresh@test.com",
+  "brand": {
+    "name": "Fresh",
+    "id": {
+      "$oid": "6329f32f40244f2a44c85741"
+    }
+  },
+  "emergencyContactNumber": "011111111",
+  "tradeLicenceNumber": 1111111111,
+  "presentAddress": "944 Honduras Street",
+  "permanentAddress": "944 Ghana Street",
+  "location": "dhaka",
+  "imageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "nationalIdImageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664383376037"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664383376037"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633479c792cc9521ec42370b"
+  },
+  "contactNumber": [
+    "01111111111",
+    "02222222222"
+  ],
+  "status": "active",
+  "name": "razu biswas",
+  "email": "razu.pran@test.com",
+  "brand": {
+    "name": "Pran",
+    "id": {
+      "$oid": "633177da56be8326a827b812"
+    }
+  },
+  "emergencyContactNumber": "011111111",
+  "tradeLicenceNumber": 1111111111,
+  "presentAddress": "944 Honduras Street",
+  "permanentAddress": "944 Ghana Street",
+  "location": "dhaka",
+  "imageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "nationalIdImageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664383431842"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664383431842"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63347a1f92cc9521ec42370d"
+  },
+  "contactNumber": [
+    "01111111111",
+    "02222222222"
+  ],
+  "status": "active",
+  "name": "sagor biswas",
+  "email": "sagor.aci@test.com",
+  "brand": {
+    "name": "ACI",
+    "id": {
+      "$oid": "6329f49f9c503f0b7438b25c"
+    }
+  },
+  "emergencyContactNumber": "011111111",
+  "tradeLicenceNumber": 1111111111,
+  "presentAddress": "944 Honduras Street",
+  "permanentAddress": "944 Ghana Street",
+  "location": "chattogram",
+  "imageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "nationalIdImageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664383519315"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664383519315"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63347a4392cc9521ec42370f"
+  },
+  "contactNumber": [
+    "01111111111",
+    "02222222222"
+  ],
+  "status": "active",
+  "name": "shahbaj khan toky",
+  "email": "toky.teer@test.com",
+  "brand": {
+    "name": "Teer",
+    "id": {
+      "$oid": "63341b10ff782a369881024b"
+    }
+  },
+  "emergencyContactNumber": "011111111",
+  "tradeLicenceNumber": 1111111111,
+  "presentAddress": "944 Honduras Street",
+  "permanentAddress": "944 Ghana Street",
+  "location": "chattogram",
+  "imageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "nationalIdImageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664383555630"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664383555630"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63347a6e92cc9521ec423711"
+  },
+  "contactNumber": [
+    "01111111111",
+    "02222222222"
+  ],
+  "status": "active",
+  "name": "anisul islam",
+  "email": "anis.rupchanda@test.com",
+  "brand": {
+    "name": "Rupchanda",
+    "id": {
+      "$oid": "6329f4a69c503f0b7438b25e"
+    }
+  },
+  "emergencyContactNumber": "011111111",
+  "tradeLicenceNumber": 1111111111,
+  "presentAddress": "944 Honduras Street",
+  "permanentAddress": "944 Ghana Street",
+  "location": "chattogram",
+  "imageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "nationalIdImageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664383598780"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664383598780"
+    }
+  },
+  "__v": 0
+}]

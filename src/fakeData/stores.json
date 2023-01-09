@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "63316b54df4cc92bd0d74f2d"
+  },
+  "status": "active\n",
+  "name": "dhaka",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664183124503"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664183124503"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633412b419894112041a9018"
+  },
+  "status": "inactive",
+  "name": "chattogram",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664357044688"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664357044688"
+    }
+  },
+  "__v": 0
+}]
